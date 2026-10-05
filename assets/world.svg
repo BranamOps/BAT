@@ -1,0 +1,40 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 760" role="img" aria-labelledby="title desc">
+<title id="title">The winding path through five illustrated study lands</title><desc id="desc">A parchment map with grassy hills, a winding dotted road, fifteen lesson stones, a starting black cat, and a distant box tower.</desc>
+<defs>
+ <linearGradient id="sky" x2="0" y2="1"><stop stop-color="#e9f1e8"/><stop offset="1" stop-color="#fbf2dc"/></linearGradient>
+ <linearGradient id="hill" x2="0" y2="1"><stop stop-color="#d6e5cb"/><stop offset="1" stop-color="#bdd2b4"/></linearGradient>
+ <filter id="shadow" x="-30%" y="-30%" width="160%" height="170%"><feDropShadow dx="0" dy="5" stdDeviation="5" flood-color="#3f4936" flood-opacity=".17"/></filter>
+ <pattern id="grain" width="70" height="70" patternUnits="userSpaceOnUse"><circle cx="9" cy="11" r="1.2" fill="#9a9b79" opacity=".17"/><circle cx="53" cy="48" r="1" fill="#9a9b79" opacity=".14"/></pattern>
+ <g id="tree"><circle cy="-15" r="17" fill="#8daa83"/><circle cx="-12" cy="-7" r="11" fill="#97b48b"/><circle cx="12" cy="-5" r="11" fill="#789c77"/><path d="M0 0v20" stroke="#8b6847" stroke-width="6" stroke-linecap="round"/></g>
+ <g id="stone"><ellipse cy="14" rx="22" ry="7" fill="#4d5b49" opacity=".14"/><circle r="21" fill="#fffaf0" stroke="#9eaa8f" stroke-width="2"/><circle r="16" fill="#e7e4d2"/><path d="M-9 -3h18M-8 3h16" stroke="#a6a994" stroke-width="2" opacity=".8"/></g>
+</defs>
+<rect width="1200" height="760" rx="30" fill="url(#sky)"/>
+<path d="M0 220Q170 155 330 220t325-8q180-92 335 5t210-18v561H0z" fill="url(#hill)"/>
+<path d="M0 315q130-54 257 4t267-16q157-59 304 7t372-4v454H0z" fill="#dce8cf" opacity=".78"/>
+<path d="M0 0h1200v760H0z" fill="url(#grain)" opacity=".7"/>
+<!-- painted streams and clouds -->
+<path d="M28 468c100-40 106 81 216 35s116 38 188 5M894 334c84-41 95 30 185-13" fill="none" stroke="#a8c9c7" stroke-width="9" stroke-linecap="round" opacity=".55"/>
+<g fill="#fffaf0" opacity=".76"><ellipse cx="174" cy="112" rx="49" ry="14"/><ellipse cx="202" cy="105" rx="25" ry="18"/><ellipse cx="940" cy="114" rx="43" ry="13"/><ellipse cx="965" cy="106" rx="22" ry="17"/></g>
+<!-- soft colored level regions -->
+<ellipse cx="190" cy="592" rx="190" ry="124" fill="#83aa75" opacity=".14"/><ellipse cx="410" cy="506" rx="190" ry="112" fill="#ddc964" opacity=".17"/><ellipse cx="625" cy="416" rx="190" ry="118" fill="#e5a15f" opacity=".16"/><ellipse cx="835" cy="324" rx="190" ry="112" fill="#d97567" opacity=".13"/><ellipse cx="1050" cy="235" rx="185" ry="110" fill="#a58bbd" opacity=".16"/>
+<!-- winding trail -->
+<path d="M120 655 C184 634 211 601 270 586 S375 554 363 511 S318 477 370 457 S501 444 525 404 S508 355 559 344 S683 358 707 315 S688 272 743 261 S866 280 887 232 S855 188 920 172 S1034 193 1080 127" fill="none" stroke="#fff9e9" stroke-width="31" stroke-linecap="round"/>
+<path d="M120 655 C184 634 211 601 270 586 S375 554 363 511 S318 477 370 457 S501 444 525 404 S508 355 559 344 S683 358 707 315 S688 272 743 261 S866 280 887 232 S855 188 920 172 S1034 193 1080 127" fill="none" stroke="#bcae88" stroke-width="3" stroke-dasharray="4 13" stroke-linecap="round" opacity=".8"/>
+<!-- clusters of trees -->
+<use href="#tree" x="72" y="540"/><use href="#tree" x="322" y="670"/><use href="#tree" x="434" y="561"/><use href="#tree" x="480" y="290"/><use href="#tree" x="650" y="498"/><use href="#tree" x="788" y="408"/><use href="#tree" x="836" y="119"/><use href="#tree" x="1061" y="328"/>
+<!-- lesson stones are spaced along the trail; numbered app buttons sit directly on these stones -->
+<g filter="url(#shadow)" font-family="system-ui,sans-serif" font-weight="800" text-anchor="middle">
+ <g transform="translate(156 660)"><use href="#stone"/></g><g transform="translate(252 629)"><use href="#stone"/></g><g transform="translate(348 598)"><use href="#stone"/></g>
+ <g transform="translate(444 545)"><use href="#stone"/></g><g transform="translate(432 492)"><use href="#stone"/></g><g transform="translate(516 484)"><use href="#stone"/></g>
+ <g transform="translate(612 438)"><use href="#stone"/></g><g transform="translate(600 377)"><use href="#stone"/></g><g transform="translate(696 385)"><use href="#stone"/></g>
+ <g transform="translate(804 343)"><use href="#stone"/></g><g transform="translate(804 288)"><use href="#stone"/></g><g transform="translate(888 296)"><use href="#stone"/></g>
+ <g transform="translate(984 256)"><use href="#stone"/></g><g transform="translate(984 202)"><use href="#stone"/></g><g transform="translate(1080 210)"><use href="#stone"/></g>
+</g>
+<!-- tower boxes, without revealing the final examiner -->
+<g transform="translate(1047 63)" filter="url(#shadow)" stroke="#866543" stroke-width="3"><rect x="0" y="33" width="62" height="46" rx="4" fill="#c49b6b"/><path d="M0 48h62M29 33v46" fill="none" stroke="#a97e51"/><rect x="20" y="0" width="61" height="45" rx="4" fill="#d4ad7a"/><path d="M20 15h61M49 0v45" fill="none" stroke="#b48a5d"/></g>
+<text x="1091" y="157" text-anchor="middle" font-family="system-ui,sans-serif" font-size="12" font-weight="700" fill="#705a43">BOX TOWER</text>
+<!-- bat marker is moved by app; original marker at lesson one -->
+<g id="bat-marker" transform="translate(130 633)" filter="url(#shadow)"><ellipse cx="0" cy="8" rx="23" ry="7" fill="#465043" opacity=".18"/><path d="M-16 -5l-2-23 15 12 6-2 14-10-3 25q-5 15-16 15t-14-17" fill="#252b2a" stroke="#151a1a" stroke-width="2"/><path d="M-12 -1q12-11 24 0v12q-12 13-24 0z" fill="#171d1e"/><path d="M-7 5l3 1M7 5l-3 1" stroke="#d7bd74" stroke-width="2.5" stroke-linecap="round"/><path d="M-2 9l2 2 2-2" fill="#bd7f83"/><path d="M-12 -5q-5-4-8-2M12-5q5-4 8-2" fill="none" stroke="#252b2a" stroke-width="1.5"/></g>
+<g transform="translate(35 708)"><rect width="150" height="27" rx="13" fill="#fffaf0" opacity=".92"/><text x="75" y="18" text-anchor="middle" font-family="system-ui,sans-serif" font-size="11" font-weight="700" fill="#25352c">BAT · START OF THE TRAIL</text></g>
+<g font-family="system-ui,sans-serif" font-size="14" font-weight="800" fill="#35453a"><text x="84" y="472">GREENWAY</text><text x="300" y="375">SUNLIT HOMES</text><text x="493" y="268">AMBER CROSSROADS</text><text x="690" y="185">RED ROAD</text><text x="936" y="322">VIOLET TOWER</text></g>
+</svg>

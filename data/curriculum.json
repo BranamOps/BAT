@@ -1,0 +1,672 @@
+{
+  "title": "BAT's Insurance Adventure",
+  "manual": "Property & Casualty Training Manual, Book #2 (Norris Training System, Rev. 2024)",
+  "sourcePagination": "References use the printed section.page labels; PDF page numbers are shown alongside them.",
+  "masteryThreshold": 80,
+  "questionsPerLesson": 10,
+  "levels": [
+    {
+      "id": 1,
+      "title": "The Greenway",
+      "color": "#54845d",
+      "pages": "Section 1 · Basics of Property & Liability · 1.1-1.9",
+      "lessons": [
+        {
+          "id": 1,
+          "title": "What insurance promises",
+          "subtitle": "Start with the two people and the promise between them.",
+          "pages": "1.1, 1.6-1.7",
+          "questionIds": [
+            "q114",
+            "q018",
+            "q019",
+            "q020",
+            "q021",
+            "q022",
+            "q023",
+            "q062",
+            "q112",
+            "q113",
+            "L1-new-1",
+            "L1-new-2"
+          ],
+          "intro": "Insurance is easier to understand when you begin with the problem a policy solves: a sudden loss can be too expensive for one person to absorb. Property insurance is a contract that transfers some of that financial risk to an insurer, but only within the promises and limits written in the policy.",
+          "teaching": [
+            {
+              "heading": "Begin with the loss",
+              "text": "A peril is the cause of a loss; a covered loss is damage caused by a peril the contract covers. Property insurance primarily protects the insured's building and contents. A property policy is a two-party contract: insured and insurer. A liability policy responds to a different problem-when the insured is legally responsible for bodily injury or property damage to someone else."
+            },
+            {
+              "heading": "Name the thing that changed",
+              "text": "Direct loss is physical damage to covered property. Indirect (consequential) loss is the financial effect of a covered direct loss, such as lost rental income. A limit is the maximum amount available under a coverage; the declarations page is where the principal limits are shown."
+            },
+            {
+              "heading": "A first decision rule",
+              "text": "Before reaching for a policy form, identify what happened, whose property or body was affected, and whether the question asks about direct damage or its financial consequence. Those facts point you toward the relevant coverage; policy wording decides the result."
+            }
+          ],
+          "scenario": {
+            "title": "The night the pantry went quiet",
+            "text": "At 2:18 on a windy Thursday morning, Lena woke to the smoke alarm and found a small fire in the kitchen. Her neighbor called the fire department while Lena and her son waited on the porch in borrowed coats. By breakfast, the fire was out, but smoke had damaged the kitchen cabinets and the family could not safely stay in the house that night. Lena has a homeowners policy and wants to know what kind of loss she experienced before she starts reading the coverage section."
+          },
+          "sourceNote": "Manual pp. 1.1, 1.6-1.7 (PDF p. 5, 10-11)."
+        },
+        {
+          "id": 2,
+          "title": "Perils, open and named",
+          "subtitle": "Learn which form lists covered causes and which lists exclusions.",
+          "pages": "1.2-1.3",
+          "questionIds": [
+            "q016",
+            "q017",
+            "q018",
+            "q112",
+            "q113",
+            "q114",
+            "q115",
+            "q116",
+            "q117",
+            "q118",
+            "L2-new-1",
+            "L2-new-2"
+          ],
+          "intro": "Two property forms can face the same damaged roof and reach different answers. The key is not how dramatic the storm looked: it is whether the policy names what is covered or instead starts with direct physical loss and names what it excludes.",
+          "teaching": [
+            {
+              "heading": "Two kinds of cause-of-loss wording",
+              "text": "A named-peril form covers only causes of loss listed in the contract. Basic and broad forms are named-peril forms; broad adds perils to basic. A special (open-peril) form covers direct physical loss unless an exclusion removes it. A useful memory hook: named form names what is covered; open form names what is not."
+            },
+            {
+              "heading": "Read the grant, then the exclusions",
+              "text": "Open-peril does not mean literally everything is covered. Read the coverage grant, check the exclusions, and then look for any exception that restores coverage. The manual lists examples of excluded causes and catastrophic losses; separate flood insurance may be available through the federal NFIP, and earthquake may be added by endorsement."
+            },
+            {
+              "heading": "Apply the wording",
+              "text": "First identify the cause of damage, then identify whether this coverage uses named or open perils. On a named form, ask whether the peril appears in the list. On an open form, check whether it is excluded. Do not confuse an uncovered peril with uncovered property: both questions matter."
+            }
+          ],
+          "scenario": {
+            "title": "Shingles on the garden path",
+            "text": "Mara was bringing in the recycling just before sunset when a hard gust lifted two shingles from her roof. She heard them skitter across the garden path and later found rain had dampened the attic insulation. Her claim adjuster asks which cause-of-loss wording appears on her policy. Mara wants to understand why the form matters before assuming every storm automatically means a covered claim."
+          },
+          "sourceNote": "Manual pp. 1.2-1.3 (PDF p. 6-7)."
+        },
+        {
+          "id": 3,
+          "title": "When someone else is hurt",
+          "subtitle": "Separate property protection from legal responsibility to others.",
+          "pages": "1.7-1.9",
+          "questionIds": [
+            "q066",
+            "q063",
+            "q064",
+            "q065",
+            "q067",
+            "q068",
+            "q075",
+            "q076",
+            "q077",
+            "q078",
+            "L3-new-1",
+            "L3-new-2"
+          ],
+          "intro": "The moment another person is injured, the insurance question changes. Liability coverage is not a repair fund for the insured's own property; it is protection when the insured becomes legally liable for injury or damage to another person.",
+          "teaching": [
+            {
+              "heading": "Three parties and a legal obligation",
+              "text": "A liability claim involves the insured, the insurer, and the claimant. The policy can pay covered damages for which the insured is legally liable, up to the applicable limits. The manual says defense and investigation costs are supplementary payments, in addition to the liability limit."
+            },
+            {
+              "heading": "Build the liability vocabulary",
+              "text": "Negligence means failing to act as a reasonable person would in similar circumstances. The care, custody, and control exclusion concerns damage to property owned, rented, occupied, used, or cared for by the insured. Compensatory damages address losses; punitive damages are punishment and are not covered according to the manual."
+            },
+            {
+              "heading": "Not every injury follows the same rule",
+              "text": "The manual distinguishes contributory negligence, comparative negligence, assumption of risk, intervening cause, and statutes of limitation. A policy limit may be per person, per occurrence, aggregate, split, or combined single. Read the question for both the legal issue and the type of limit it asks about."
+            }
+          ],
+          "scenario": {
+            "title": "A slippery entryway after the lunch rush",
+            "text": "On a rainy Saturday, customers tracked water across the tiled entrance of Mateo's neighborhood shop. One visitor slipped while looking at a display and sprained her wrist. Mateo offered to call her sister and saved the security footage; the visitor later sent a letter asking for her medical bills. The shop's policy includes liability coverage, and Mateo's insurer begins reviewing what happened and whether the shop is legally responsible."
+          },
+          "sourceNote": "Manual pp. 1.7-1.9 (PDF p. 11-13)."
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "title": "The Sunlit Homes",
+      "color": "#c1a845",
+      "pages": "Section 2 · Personal Lines Property · 2.1-2.9",
+      "lessons": [
+        {
+          "id": 4,
+          "title": "A homeowners policy, piece by piece",
+          "subtitle": "Read the policy's structure before choosing a coverage letter.",
+          "pages": "2.1-2.6",
+          "questionIds": [
+            "q001",
+            "q003",
+            "q004",
+            "q100",
+            "q101",
+            "q102",
+            "q103",
+            "q104",
+            "q105",
+            "q005",
+            "L4-new-1",
+            "L4-new-2"
+          ],
+          "intro": "A homeowners policy is a package: property coverages and liability coverages live in one contract. A good first pass is to identify which section and letter addresses the loss, then check the form's peril wording and limits.",
+          "teaching": [
+            {
+              "heading": "Section I protects property",
+              "text": "The manual's HO structure assigns Coverage A to the dwelling, B to other structures, C to unscheduled personal property, and D to loss of use. The declarations page gives the limits. Buildings are generally shown at replacement cost in the manual's example; contents are generally actual cash value unless replacement-cost coverage is added."
+            },
+            {
+              "heading": "Section II addresses liability",
+              "text": "Coverage E is personal liability and Coverage F is medical payments to others. These are different from Section I property coverages. A detached shed is not the same coverage question as a guest's injury, even if both events happen on the same property."
+            },
+            {
+              "heading": "Form wording changes by letter",
+              "text": "HO-2 uses broad named perils for A, B, and C. HO-3 uses special/open peril on A and B, but broad named perils on C. HO-5 uses special/open peril on A, B, and C. Always name the policy form and coverage letter before deciding which peril rule applies."
+            }
+          ],
+          "scenario": {
+            "title": "The shed, the violin, and the visiting cousin",
+            "text": "After a spring hail shower, Nina found dents on the detached garden shed and a cracked window in the house. Her cousin was visiting and had left a violin in the living room while helping move a bookcase. Nina opens her declarations page and sees Coverage A, B, C, and D, followed by a separate Section II. She wants to sort each item into the right part of the policy before calling her agent."
+          },
+          "sourceNote": "Manual pp. 2.1-2.6 (PDF p. 14-19)."
+        },
+        {
+          "id": 5,
+          "title": "Forms for different homes",
+          "subtitle": "Compare homeowners, renters, condominium, dwelling, and mobile-home forms.",
+          "pages": "2.3, 2.7-2.9",
+          "questionIds": [
+            "q003",
+            "q004",
+            "q005",
+            "q006",
+            "q007",
+            "q008",
+            "q009",
+            "q010",
+            "q100",
+            "q101",
+            "L5-new-1",
+            "L5-new-2"
+          ],
+          "intro": "Not every household owns a detached house. The manual explains several forms by what they insure-and, just as importantly, what they leave out. Comparing the forms is clearer than memorizing each name in isolation.",
+          "teaching": [
+            {
+              "heading": "Match the form to the dwelling",
+              "text": "HO-4 is designed for renters and does not need dwelling or other-structures coverage; the manual describes 10% of Coverage C for tenants' improvements. HO-6 is for condominium unit owners and has no Coverage B in the manual's comparison. HO-2, HO-3, and HO-5 differ in peril wording."
+            },
+            {
+              "heading": "Dwelling policies are property policies",
+              "text": "The DP is not a package policy. DP-1 is basic, actual cash value, and has no coinsurance requirement. DP-2 is broad and DP-3 is special; both show replacement cost and an 80% coinsurance requirement in the manual. Personal liability can be added as an option."
+            },
+            {
+              "heading": "Specialized homes have eligibility details",
+              "text": "The manual describes mobile-home forms as actual-cash-value coverage and gives physical eligibility conditions: permanently located, skirted, tied down, and wheels removed. A mobile home is not covered while being moved to a new location. Farmowners forms are presented as homeowners-based or commercial-package-based."
+            }
+          ],
+          "scenario": {
+            "title": "A new address and a half-finished move",
+            "text": "The Park family moved into a condominium on a clear Monday morning. The building association insures shared areas, but the Parks own the cabinets they installed and the furniture in their unit. Across town, their friend Devon rents an apartment and is trying to insure a laptop and a sofa without paying to insure the building. They compare policy forms and notice that the same coverage letters do not mean every household needs the same set."
+          },
+          "sourceNote": "Manual pp. 2.3, 2.7-2.9 (PDF p. 16, 20-22)."
+        },
+        {
+          "id": 6,
+          "title": "Valuation, limits, and claim conditions",
+          "subtitle": "Move from a policy promise to how a property claim is adjusted.",
+          "pages": "1.4-1.6, 2.1, 2.4",
+          "questionIds": [
+            "q029",
+            "q146-unused",
+            "q025",
+            "q026",
+            "q027",
+            "q028",
+            "q030",
+            "q031",
+            "q032",
+            "L6-new-1",
+            "L6-new-2",
+            "q034"
+          ],
+          "intro": "A covered cause is only the beginning of a property claim. The insurer also checks what was insured, the valuation basis, the deductible, policy conditions, and what each party must do after a loss.",
+          "teaching": [
+            {
+              "heading": "Value is not one single number",
+              "text": "Actual cash value is replacement cost less depreciation. Replacement cost uses today's labor and material costs. Market value is the current selling price. Agreed value is set by agreement when the policy is issued; maintaining it avoids a coinsurance penalty on partial losses as described in the manual."
+            },
+            {
+              "heading": "Coinsurance is an insurance-to-value test",
+              "text": "The manual's property condition requires at least 80% of the building's replacement cost at the time of loss. If the insured carries less than required, the payment is reduced proportionally: amount carried divided by amount required, multiplied by the loss, less any deductible. Read the question's numbers before calculating."
+            },
+            {
+              "heading": "Conditions govern the claim",
+              "text": "The manual covers deductibles, vacancy and unoccupancy, other insurance, proof of loss, appraisal, subrogation, salvage, loss settlement, loss payment, and recovered property. Vacant means no people and no contents; unoccupied means contents remain but people are absent. The policy period, exclusions, and duties after loss remain important."
+            }
+          ],
+          "scenario": {
+            "title": "The empty duplex on Maple Street",
+            "text": "For several weeks, Eli has been repairing a duplex between tenants. The rooms are bare, the utilities are off, and no one is staying there. One afternoon, he discovers a broken side window and missing copper pipe. Eli also learns that the building's current replacement estimate is higher than the limit he bought years ago. He reports the loss and begins gathering receipts, photographs, and his policy papers."
+          },
+          "sourceNote": "Manual pp. 1.4-1.6 and 2.1, 2.4 (PDF p. 8-10, 14, 17)."
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "title": "The Amber Crossroads",
+      "color": "#d88743",
+      "pages": "Section 3 · Miscellaneous Casualty · 3.1-3.5",
+      "lessons": [
+        {
+          "id": 7,
+          "title": "Workers compensation: a social remedy",
+          "subtitle": "Understand the no-fault purpose, coverage parts, and Kansas context.",
+          "pages": "3.1-3.2",
+          "questionIds": [
+            "q098",
+            "q092",
+            "q143",
+            "q042",
+            "q047",
+            "q126",
+            "q062",
+            "q063",
+            "q064",
+            "L7-new-1",
+            "L7-new-2",
+            "q048"
+          ],
+          "intro": "Workers compensation starts with a practical question: what happens when an employee is hurt while doing the job? The manual presents the system as a social remedy that provides benefits regardless of fault or negligence, replacing several traditional employer defenses.",
+          "teaching": [
+            {
+              "heading": "Part One and Part Two answer different claims",
+              "text": "Workers compensation benefits are for covered work injuries. Employers liability addresses common-law claims made against an employer. The manual lists exceptions to mandatory coverage and explains payroll estimates, deposit premium, final premium audit, and experience modification."
+            },
+            {
+              "heading": "Kansas details matter",
+              "text": "The manual calls Kansas a monopolistic workers compensation state and identifies the Kansas Workers Compensation Fund in its discussion. Learn the distinction between the employee benefit system and employer liability rather than treating them as one coverage."
+            },
+            {
+              "heading": "Use the work relationship",
+              "text": "Ask whether the injured person is an employee, whether the injury is work-related, and which part of the policy is being tested. The manual's purpose statement is that covered workers receive benefits regardless of fault; do not import a liability negligence test into that question."
+            }
+          ],
+          "scenario": {
+            "title": "A ladder on the early shift",
+            "text": "Just after sunrise, Tasha was restocking a high shelf at the garden center where she works. A ladder shifted on the concrete floor, and she hurt her ankle when she stepped down awkwardly. Her supervisor arranged a ride to the clinic and documented the incident before the morning deliveries arrived. Tasha's claim is being considered under the employer's workers compensation program."
+          },
+          "sourceNote": "Manual pp. 3.1-3.2 (PDF p. 23-24)."
+        },
+        {
+          "id": 8,
+          "title": "Bonds, umbrellas, and professional risk",
+          "subtitle": "Distinguish a surety promise from insurance against liability.",
+          "pages": "3.3-3.5",
+          "questionIds": [
+            "q044",
+            "q043",
+            "q128",
+            "q045",
+            "q046",
+            "q047",
+            "q050",
+            "q060",
+            "q126",
+            "q127",
+            "L8-new-1",
+            "L8-new-2"
+          ],
+          "intro": "A bond is not simply another liability policy. A surety bond involves three parties and guarantees an obligation; professional liability and umbrella coverage address different risks and must be read on their own terms.",
+          "teaching": [
+            {
+              "heading": "Three roles in a surety bond",
+              "text": "The principal is the party whose obligation is bonded. The obligee is the party protected by the bond. The surety backs the promise. If the principal defaults, the surety may pay the obligee and seek reimbursement from the principal; this recourse distinguishes surety from ordinary insurance."
+            },
+            {
+              "heading": "Match specialty cover to the exposure",
+              "text": "The manual's pages introduce umbrella/excess liability and professional liability forms such as errors and omissions, directors and officers, and medical malpractice. These policies address distinct liability exposures; the name of the profession or limit alone does not settle a claim."
+            },
+            {
+              "heading": "Read the bond or policy wording",
+              "text": "Identify who promises performance, who benefits, and what event triggers the promise. For excess liability, identify the underlying coverage and whether the question asks about limits or scope. Avoid assuming a bond protects the principal in the same way an insurance policy would."
+            }
+          ],
+          "scenario": {
+            "title": "The bridge contract",
+            "text": "A county awards a small bridge repair project to a family construction company. Before the crew can bring equipment onto the site, the county asks for a bond guaranteeing that the work will be completed as promised. The owner meets with the surety representative, who explains that the county is protected if the contractor defaults and that the contractor remains responsible for the obligation."
+          },
+          "sourceNote": "Manual pp. 3.3-3.5 (PDF p. 25-27)."
+        },
+        {
+          "id": 9,
+          "title": "Liability limits and legal defenses",
+          "subtitle": "Read the policy's limit structure and connect it to the facts.",
+          "pages": "1.7-1.9, 3.3-3.5",
+          "questionIds": [
+            "q063",
+            "q065",
+            "q067",
+            "q068",
+            "q075",
+            "q076",
+            "q077",
+            "q078",
+            "q079",
+            "L9-new-1",
+            "L9-new-2",
+            "q160"
+          ],
+          "intro": "More realistic claims involve several moving parts: who was injured, whether the insured was legally responsible, which limit applies, and whether a defense changes the outcome. This lesson practices that full chain rather than treating a limit as an isolated vocabulary word.",
+          "teaching": [
+            {
+              "heading": "Follow responsibility before payment",
+              "text": "Liability coverage responds to covered legal liability for bodily injury or property damage to others. Negligence, strict liability for products, and absolute liability are different ideas in the manual. Identify the alleged basis of responsibility before deciding which policy feature matters."
+            },
+            {
+              "heading": "Read the limit shape",
+              "text": "A per-person limit caps payment for one person; per-occurrence caps one event; aggregate caps the total for a policy period; split limits separate bodily injury and property damage; combined single limit applies to both. Defense and investigation costs are described separately as supplementary payments."
+            },
+            {
+              "heading": "Consider the available defenses",
+              "text": "Contributory negligence, comparative negligence, assumption of risk, intervening cause, and statute of limitations may affect recovery. They do not all do the same thing. State the facts that activate a defense and do not assume every defense is an exclusion in the insurance policy."
+            }
+          ],
+          "scenario": {
+            "title": "The delivery cart and the display case",
+            "text": "During a busy afternoon, a supplier rolls a delivery cart through the narrow aisle of a home-goods store. A wheel catches a floor mat, the cart tips, and a customer is hurt while a glass display case shatters. The store owner preserves the video and reports both injuries and damage. The claim involves multiple types of harm, and the insurer asks what limits and liability issues need to be analyzed."
+          },
+          "sourceNote": "Manual pp. 1.7-1.9, 3.3-3.5 (PDF p. 11-13, 25-27)."
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "title": "The Red Road",
+      "color": "#b95048",
+      "pages": "Section 4 · Auto Insurance · 4.1-4.7",
+      "lessons": [
+        {
+          "id": 10,
+          "title": "Personal auto: who and what is insured",
+          "subtitle": "Build the policy map: liability, physical damage, and covered people.",
+          "pages": "4.1-4.2",
+          "questionIds": [
+            "q053",
+            "q054",
+            "q081",
+            "q082",
+            "q084",
+            "q085",
+            "q086",
+            "q087",
+            "q088",
+            "q140",
+            "L10-new-1",
+            "L10-new-2"
+          ],
+          "intro": "Auto questions become manageable when you separate harm to other people from damage to the insured vehicle, then identify who qualifies as an insured and where the policy applies.",
+          "teaching": [
+            {
+              "heading": "Separate liability and physical damage",
+              "text": "The Personal Auto Policy's bodily injury liability addresses injuries to others for which an insured is legally responsible. Physical damage coverage addresses the insured auto under the applicable collision or other-than-collision provisions. One crash can create both kinds of claim."
+            },
+            {
+              "heading": "Kansas adds no-fault benefits",
+              "text": "The manual discusses the Kansas Auto Injury Reparations Act, personal injury protection, and uninsured/underinsured motorist coverage. PIP benefits are paid without first deciding fault, subject to the listed benefits and policy rules. The manual gives Kansas required liability limits of 25/50/25 and says UM/UIM limits must match liability limits."
+            },
+            {
+              "heading": "Read definitions and territory",
+              "text": "The manual defines occupying broadly for Kansas PIP and distinguishes who cannot collect in specified circumstances. Check the policy's insured definition, covered auto, coverage part, and territory instead of treating every person near a car as automatically insured."
+            }
+          ],
+          "scenario": {
+            "title": "A fender-bender outside the library",
+            "text": "On a drizzly evening, Jordan slowed at the library driveway while a cyclist crossed. A car behind him bumped the rear bumper, and Jordan's passenger complained of a sore shoulder. The other driver exchanged details, and Jordan photographed the scene before the tow truck arrived. His policy includes liability, physical damage, and Kansas-required auto coverages, each of which may answer a different part of the event."
+          },
+          "sourceNote": "Manual pp. 4.1-4.3 (PDF p. 28-30)."
+        },
+        {
+          "id": 11,
+          "title": "Kansas auto rules in real situations",
+          "subtitle": "Apply the statutory thresholds and benefits the manual teaches.",
+          "pages": "4.2-4.4",
+          "questionIds": [
+            "q083",
+            "q084",
+            "q085",
+            "q087",
+            "q088",
+            "q089",
+            "q090",
+            "q091",
+            "q142",
+            "L11-new-1",
+            "L11-new-2",
+            "q144"
+          ],
+          "intro": "Kansas auto rules are easiest to apply when you keep liability, PIP, UM/UIM, proof of insurance, and the no-fault threshold in separate boxes. The facts in a scenario determine which box matters.",
+          "teaching": [
+            {
+              "heading": "PIP and the suit threshold",
+              "text": "PIP provides specified benefits under Kansas's no-fault system. The manual lists medical and rehabilitation, income and survivors, funeral, and essential-services benefits. It also explains that suit for non-pecuniary injuries is limited by a threshold; apply only the threshold stated in the manual to the facts provided."
+            },
+            {
+              "heading": "Required coverages and proof",
+              "text": "The manual states minimum auto liability limits of 25/50/25 and requires UM/UIM limits to match liability limits. It also addresses proof of insurance, the Kansas Auto Plan, accident-prevention course reductions, and motorcycle rules. Keep each statutory requirement tied to the question it answers."
+            },
+            {
+              "heading": "Make a clean sequence",
+              "text": "Identify the vehicle and claimant, separate first-party PIP from liability to another person, determine whether a suit threshold is involved, and then check the required limits or eligibility rule. No-fault does not mean every kind of loss is automatically paid."
+            }
+          ],
+          "scenario": {
+            "title": "The intersection at closing time",
+            "text": "Just before the shops closed, Priya entered an intersection on a green light and another driver turned across her lane. Both cars stopped safely, but Priya's passenger reported an injury and was taken to urgent care. The drivers exchanged insurance cards and later learned that their state has a no-fault benefit system and a threshold for certain lawsuits. They are trying to distinguish immediate benefits from a later liability claim."
+          },
+          "sourceNote": "Manual pp. 4.2-4.4 (PDF p. 29-31)."
+        },
+        {
+          "id": 12,
+          "title": "Commercial auto and garage risks",
+          "subtitle": "Distinguish business autos, symbols, dealers, and customers' vehicles.",
+          "pages": "4.5-4.7",
+          "questionIds": [
+            "q057",
+            "q058",
+            "q061",
+            "q053",
+            "q054",
+            "q082",
+            "q090",
+            "q142",
+            "q145",
+            "L12-new-1",
+            "L12-new-2",
+            "q056"
+          ],
+          "intro": "A business may own vehicles, borrow them, or hold a customer's car for service. Commercial auto and garage forms distinguish those relationships rather than treating every vehicle as the same insured auto.",
+          "teaching": [
+            {
+              "heading": "The Business Auto Policy",
+              "text": "The BAP uses covered-auto symbols to describe which autos are insured for a coverage. The manual identifies nine symbols, from any auto to specifically described autos. Check the symbol shown for the coverage at issue; a business policy does not automatically cover every vehicle in every situation."
+            },
+            {
+              "heading": "Dealers and service operations",
+              "text": "The manual distinguishes a Dealers Form, which covers owned and non-owned autos on a primary basis, from the Service Form for service stations, repair shops, and parking garages. Garagekeepers is optional bailee coverage for customer vehicles in the business's custody for repair or service, and it may be primary or excess."
+            },
+            {
+              "heading": "Customer property is a different exposure",
+              "text": "A customer's vehicle left for repair is not simply the shop's own auto. Identify ownership, custody, purpose, and the relevant garage or auto coverage before applying a symbol or deciding whether physical damage is addressed."
+            }
+          ],
+          "scenario": {
+            "title": "The key rack at the repair shop",
+            "text": "At closing time, Alina finished writing a repair estimate and hung a customer's keys on the hook behind the service desk. Overnight, a pipe burst in the shop and water reached the parked cars. One car belonged to the shop owner and another had been left for repairs. The owner opens the business policy and needs to separate the shop's own auto exposure from its responsibility for customers' vehicles."
+          },
+          "sourceNote": "Manual pp. 4.5-4.7 (PDF p. 32-34)."
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "title": "The Violet Tower",
+      "color": "#775c91",
+      "pages": "Section 5 · Commercial Property & Casualty · 5.1-5.9",
+      "lessons": [
+        {
+          "id": 13,
+          "title": "BOP and commercial packages",
+          "subtitle": "Understand eligibility, size limits, and the architecture of a business policy.",
+          "pages": "5.1-5.3, 5.7",
+          "questionIds": [
+            "q010",
+            "q011",
+            "q012",
+            "q013",
+            "q014",
+            "q015",
+            "q059",
+            "q069",
+            "q070",
+            "q094",
+            "L13-new-1",
+            "L13-new-2"
+          ],
+          "intro": "Commercial property questions often begin before a claim: which policy structure fits the business, and is the business eligible for it? The manual contrasts a Businessowners Policy for certain smaller businesses with a customizable Commercial Package Policy for larger risks.",
+          "teaching": [
+            {
+              "heading": "BOP eligibility comes first",
+              "text": "The manual lists eligible occupancies and exclusions and gives ceilings of six stories, 100,000 square feet (no more than 25,000 in one business), and $3,000,000 gross receipts. A BOP is a package policy with a special/open-peril property form and business-liability coverage. Check eligibility and size before assuming the form applies."
+            },
+            {
+              "heading": "A commercial package is modular",
+              "text": "The CPP combines chosen coverage parts under shared declarations and conditions. The manual lists commercial property, commercial inland marine, commercial general liability, and commercial crime parts. This architecture allows a business's exposures to be addressed with separate forms."
+            },
+            {
+              "heading": "Follow the insured property",
+              "text": "The manual discusses buildings, business personal property, business income, extra expense, peak-season coverage, and signs. Inland marine addresses specified property categories such as goods in transit, accounts receivable, or contractors' equipment. The kind and location of property matter."
+            }
+          ],
+          "scenario": {
+            "title": "A bakery looking for room to grow",
+            "text": "Mina's bakery has a street-level shop, a small office upstairs, and a busy holiday season when inventory nearly doubles. She wants one package that can address the building, equipment, business interruption, and liability to customers. Her broker asks about the business's size, receipts, and occupancy before comparing a BOP with a Commercial Package Policy."
+          },
+          "sourceNote": "Manual pp. 5.1-5.3, 5.7-5.8 (PDF p. 35-37, 41-42)."
+        },
+        {
+          "id": 14,
+          "title": "Commercial liability: triggers and exclusions",
+          "subtitle": "Apply premises, products, completed operations, and claims-made timing.",
+          "pages": "5.4-5.6",
+          "questionIds": [
+            "q134",
+            "q130",
+            "q067",
+            "q068",
+            "q069",
+            "q070",
+            "q071",
+            "q131",
+            "q132",
+            "q133",
+            "L14-new-1",
+            "L14-new-2"
+          ],
+          "intro": "Commercial liability questions often hinge on where an injury happened, whether work was complete, and when a claim was made. The concepts overlap in everyday language, so locate the exposure and trigger before selecting a coverage.",
+          "teaching": [
+            {
+              "heading": "Sort the hazard",
+              "text": "Premises and operations covers bodily injury or property damage connected with the business premises or operations. Products liability concerns injury or damage caused by a defective product and generally requires the injury away from the premises in the manual's description. Completed operations applies after the project is finished and the insured has left."
+            },
+            {
+              "heading": "Some coverages do different work",
+              "text": "Personal and advertising injury address listed offenses rather than bodily injury or property damage. Fire legal (tenant liability) addresses covered damage to a rented part of a building. Medical payments to others are described as paying medical bills regardless of negligence to discourage lawsuits."
+            },
+            {
+              "heading": "Occurrence versus claims-made",
+              "text": "On an occurrence form, the occurrence must happen during the policy period and a claim can be made later. On a claims-made form, both the occurrence and claim must fall within the required timing. A retroactive date limits how far back prior occurrences can reach; extended reporting periods extend the claim-reporting window as described by the manual."
+            }
+          ],
+          "scenario": {
+            "title": "The loose cabinet in the new kitchen",
+            "text": "A week after a renovation crew finished a kitchen and left, a wall cabinet pulled away from its fasteners and injured the homeowner. The homeowner also found the contractor's business card and called to report the injury. The contractor's insurer asks when the work ended, where the injury occurred, when the incident happened, and when the claim was first made."
+          },
+          "sourceNote": "Manual pp. 5.4-5.6 (PDF p. 38-40)."
+        },
+        {
+          "id": 15,
+          "title": "Commercial property, crime, and synthesis",
+          "subtitle": "Bring the manual together: location, custody, cause, timing, and coverage.",
+          "pages": "5.6-5.9, 1.4-1.9",
+          "questionIds": [
+            "q073",
+            "q074",
+            "q121",
+            "q122",
+            "q123",
+            "q124",
+            "q125",
+            "q046",
+            "q047",
+            "L15-new-1",
+            "L15-new-2",
+            "q120"
+          ],
+          "intro": "The last lesson combines separate policy parts instead of adding new rules. Commercial claims can involve a building, goods in transit, dishonest acts, or a legal obligation; careful analysis means identifying the property, event, location, timing, and exact policy part before deciding.",
+          "teaching": [
+            {
+              "heading": "Commercial conditions still matter",
+              "text": "The manual distinguishes property and liability territories, cancellation and nonrenewal conditions, other insurance, audits, and insured duties. Similar policy names do not guarantee identical terms. Use the condition that matches the coverage part and type of question."
+            },
+            {
+              "heading": "Crime language is precise",
+              "text": "Burglary requires evidence of forced entry into or out of premises or a safe; robbery involves taking by force or threat; theft is any act of stealing. Extortion, pilferage, forgery, mysterious disappearance, custodian, and messenger have separate definitions. Employee dishonesty coverage ends for the employee after discovery of a dishonest act; the manual describes a two-year discovery period."
+            },
+            {
+              "heading": "Synthesize, don't guess",
+              "text": "In a complex scenario, organize the facts: (1) what was damaged or taken, (2) who owned or held it, (3) where and when the event occurred, (4) which form and coverage apply, and (5) what exclusion, condition, or limit changes the result. State what the manual supports; do not infer a coverage grant from realism alone."
+            }
+          ],
+          "scenario": {
+            "title": "The warehouse alarm after midnight",
+            "text": "At 12:40 a.m. on a cold Tuesday, the alarm company called the manager of a regional furniture warehouse. A side door showed pry marks, several boxed lamps were missing, and a sealed envelope of cash was still in the office safe. Earlier that day, a driver had taken a shipment to a customer and returned with signed delivery papers. The business carries commercial property, inland marine, and crime coverages, and the manager is organizing the facts for the first notice of loss."
+          },
+          "sourceNote": "Manual pp. 5.6-5.9 and 1.4-1.9 (PDF p. 40-43, 8-13)."
+        }
+      ]
+    }
+  ],
+  "boss": {
+    "title": "CAT at the Box Tower",
+    "questionIds": [
+      "q001",
+      "q029",
+      "q034",
+      "q048",
+      "q056",
+      "q066",
+      "q081",
+      "q086",
+      "q098",
+      "q120",
+      "q130",
+      "q140",
+      "q144",
+      "q146-unused",
+      "q160"
+    ],
+    "intro": "BAT has climbed all fifteen lessons. At the top of the cardboard Box Tower, CAT is waiting. She found this cozy home first, and wants to know BAT can help care for it before they open it to every cat.",
+    "dialogue": "You made it to the top, BAT. Show me what you learned, and then we can make room for everyone together.",
+    "win": "You followed the facts, found the right rules, and earned your place at the top. I found this tower first, but there is plenty of room. Let's make it a home for all the cats together."
+  }
+}

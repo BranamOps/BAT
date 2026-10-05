@@ -1,0 +1,26 @@
+BAT'S INSURANCE ADVENTURE
+=========================
+
+START HERE
+Double-click: BAT Adventure.cmd
+It opens the adventure in your web browser. This is the one-click launcher; keep the server window open while you play. Leave the black server window open while you play; close it when you are finished.
+
+To create a portable ZIP package, double-click PACKAGE BAT Adventure.cmd. It creates BAT-Insurance-Adventure.zip beside this file. Extract the archive on a Windows computer and double-click BAT Adventure.cmd inside the extracted folder to launch.
+
+HOW TO PLAY
+1. Choose "Begin the journey" or click Lesson 1 on the map.
+2. Read the short lesson, then choose "Start the 10-question lesson check".
+3. Select an answer and click "Check answer". The game shows the explanation and manual reference right away.
+4. Score at least 8/10 to master a lesson and unlock the next stop. If needed, use "Review & retake".
+5. Complete all 15 lessons, then meet CAT for the final assessment.
+
+Your progress is saved in this browser on this computer. The manual is included here as "Insurance Training Manual.pdf". Use "The manual" in the app for a quick section/page guide.
+
+IF IT DOESN'T OPEN
+- Keep this folder in place; the app needs its data and assets folders.
+- The launcher uses Python 3, which is available on this computer. If prompted, install Python 3 and run the launcher again.
+- The launcher uses a free local port automatically if port 4173 is already in use. It reuses port 4173 when it is already serving this app.
+- Keep the folder together; moving the launcher away from the app files will prevent it from working.
+
+APP FILES
+index.html opens the app shell. Do not move it away from app.js, app.css, data, or assets.
