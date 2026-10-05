@@ -5,7 +5,7 @@ title BAT Insurance Adventure Launcher
 set "PORT=4173"
 
 REM Reuse the adventure if this folder is already being served.
-powershell -NoProfile -Command "$r=try{Invoke-WebRequest -UseBasicParsing 'http://127.0.0.1:%PORT%/' -TimeoutSec 2}catch{$null};if($r -and $r.Content.Contains('local testing page')){exit 0}else{exit 1}" >nul 2>nul
+powershell -NoProfile -Command "$r=try{Invoke-WebRequest -UseBasicParsing 'http://127.0.0.1:%PORT%/' -TimeoutSec 2}catch{$null};if($r -and $r.Content.Contains('Insurance Adventure')){exit 0}else{exit 1}" >nul 2>nul
 if not errorlevel 1 goto :open
 
 REM Find a currently-free local port so another app is never interrupted.
@@ -30,7 +30,7 @@ if not errorlevel 1 (
 )
 
 for /l %%I in (1,1,20) do (
-  powershell -NoProfile -Command "$r=try{Invoke-WebRequest -UseBasicParsing 'http://127.0.0.1:%PORT%/' -TimeoutSec 1}catch{$null};if($r -and $r.Content.Contains('local testing page')){exit 0}else{exit 1}" >nul 2>nul
+  powershell -NoProfile -Command "$r=try{Invoke-WebRequest -UseBasicParsing 'http://127.0.0.1:%PORT%/' -TimeoutSec 1}catch{$null};if($r -and $r.Content.Contains('Insurance Adventure')){exit 0}else{exit 1}" >nul 2>nul
   if not errorlevel 1 goto :open
   timeout /t 1 /nobreak >nul
 )
