@@ -2,10 +2,11 @@ BAT'S INSURANCE ADVENTURE
 =========================
 
 START HERE
-Double-click: BAT Adventure.cmd
-It opens the adventure in your web browser. This is the one-click launcher; keep the server window open while you play. Leave the black server window open while you play; close it when you are finished.
+This folder is the source for the public GitHub Pages website: https://branamops.github.io/BAT/ .
 
-To create a portable ZIP package, double-click PACKAGE BAT Adventure.cmd. It creates BAT-Insurance-Adventure.zip beside this file. Extract the archive on a Windows computer and double-click BAT Adventure.cmd inside the extracted folder to launch.
+For local testing on Windows, double-click START BAT Adventure.cmd. It opens the game in your browser; keep the server window open while you test and close it when finished. This local launcher does not publish changes.
+
+To publish saved website changes, follow the GitHub tutorial at C:\dev\github_tutorial.md. Only the START BAT Adventure.cmd launcher is kept for local testing.
 
 HOW TO PLAY
 1. Choose "Begin the journey" or click Lesson 1 on the map.
@@ -23,4 +24,4 @@ IF IT DOESN'T OPEN
 - Keep the folder together; moving the launcher away from the app files will prevent it from working.
 
 APP FILES
-index.html opens the app shell. Do not move it away from app.js, app.css, data, or assets.
+index.html opens the app shell. Do not move it away from app.js, app.css, data, or assets. This static website is published from the main branch by GitHub Actions.
